@@ -28,3 +28,5 @@ After you're done, submit a screenshot of your Playground including the followin
 **Do not google for the end solution!**
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
